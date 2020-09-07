@@ -1,1 +1,0 @@
-# Education_center_django
